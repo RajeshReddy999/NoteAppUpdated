@@ -13,8 +13,3 @@ You need to know:
 Getting Started
 ---------------
 
-1. Download and run the app.
-
-
-Author is Rajesh
-Company BRRSOFTWARES
